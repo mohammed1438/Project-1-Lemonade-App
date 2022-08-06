@@ -1,10 +1,10 @@
 Project: Lemonade App - Starter Code
-==================================
-
-Starter code for the first independent project for [Android Basics in Kotlin]
 
 Introduction
 ------------
+==================================
+
+Starter code for the first independent project for [Android Basics in Kotlin]
 
 This is the starter code for the Lemonade app project in the [Android Basics in Kotlin - Unit 1]. This project is an opportunity for you to demonstrate the concepts you learned in the unit.
 
